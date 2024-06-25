@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raviraj Navale</h1>
 <h3 align="center">Craftsman of Complete Web Solutions.</h3>
 
-- 🌱 I’m currently learning more about **AWS, System Design, TypeScript, Aceternity UI**
+- 🌱 I’m currently learning more about **AWS, System Design, TypeScript, NestJS, Aceternity UI**
 
 - 💬 Ask me about **ReactJS, NextJS, NodeJS, Express, UI Libraries, MongoDB, PostgreSQL**
 
