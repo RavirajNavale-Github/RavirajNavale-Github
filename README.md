@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravirajnavale-github&label=Profile%20views&color=0e75b6&style=flat" alt="ravirajnavale-github" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravirajnavale-github" alt="ravirajnavale-github" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/erravirajnavale" target="blank"><img src="https://img.shields.io/twitter/follow/erravirajnavale?logo=twitter&style=for-the-badge" alt="erravirajnavale" /></a> </p>
 
