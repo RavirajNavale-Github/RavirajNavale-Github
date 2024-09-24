@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **ReactJS, NextJS, NodeJS, Express, PHP, Laravel,UI Libraries, MongoDB, PostgreSQL, MySQL, Bootstrap, TailwindCSS**
 
-- ⚡ other fact **l lead an athletic lifestyle. Mainly in gymnasium and wrestling.**
+- ⚡ other fact that **l lead an athletic lifestyle. Mainly in gymnasium and wrestling.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
