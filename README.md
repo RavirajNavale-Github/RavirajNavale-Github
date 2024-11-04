@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/erravirajnavale" target="blank"><img src="https://img.shields.io/twitter/follow/erravirajnavale?logo=twitter&style=for-the-badge" alt="erravirajnavale" /></a> </p>
 
-- 🌱 I’m currently learning **more about System Design, Aceternity UI**
-
 - 👨‍💻 My LinkedIn profile [http://www.linkedin.com/in/ravirajnavale](http://www.linkedin.com/in/ravirajnavale)
 
 - 💬 Ask me about **ReactJS, NextJS, NodeJS, Express, PHP, Laravel,UI Libraries, MongoDB, PostgreSQL, MySQL, Bootstrap, TailwindCSS**
